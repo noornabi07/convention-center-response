@@ -6,3 +6,10 @@
     left: 250px;
     bottom: -20px;
 }
+/* media query responsive */
+@media screen and (max-width: 576px) {
+    .third-plan{
+        position: relative;
+        top: 0;
+    }
+}
